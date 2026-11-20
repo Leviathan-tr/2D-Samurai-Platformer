@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 9ced0c6f78bb4f848a6cb6c5c7d7182b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5084715537973729636
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_0"
+  - first:
+      213: 154256953903684595
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_1"
+  - first:
+      213: -1080524074936649006
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_2"
+  - first:
+      213: -2362095732293671371
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_3"
+  - first:
+      213: -8017402012897208610
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_4"
+  - first:
+      213: -5163953305215071044
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_5"
+  - first:
+      213: -329910109507828677
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_6"
+  - first:
+      213: -9007412911338931118
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_7"
+  - first:
+      213: -6036877002426474255
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_8"
+  - first:
+      213: -6277154146567974058
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_9"
+  - first:
+      213: 5500094072242092931
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_10"
+  - first:
+      213: -7028747690488121226
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_11"
+  - first:
+      213: 4292667272253366726
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_12"
+  - first:
+      213: -9110061131977229411
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_13"
+  - first:
+      213: -8257431274554580043
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_14"
+  - first:
+      213: 5276469782640407350
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_15"
+  - first:
+      213: -7034530504481821190
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_16"
+  - first:
+      213: -4677481545007163298
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_17"
+  - first:
+      213: 4201511480950386450
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_18"
+  - first:
+      213: 8284417142804388035
+    second: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_19"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 351
+        height: 649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46955d087d9809640800000000000000
+      internalID: 5084715537973729636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_1"
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 353
+        height: 714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb109dd1e7042200800000000000000
+      internalID: 154256953903684595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_2"
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 513
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dab42624153101f0800000000000000
+      internalID: -1080524074936649006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_8"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 29
+        width: 355
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f025add954b83ca0800000000000000
+      internalID: -6036877002426474255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_17"
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 19
+        width: 520
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e581762315f361fb0800000000000000
+      internalID: -4677481545007163298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e649d3a4abef3814ca932c045258fce6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_0": 5084715537973729636
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_1": 154256953903684595
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_10": 5500094072242092931
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_11": -7028747690488121226
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_12": 4292667272253366726
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_13": -9110061131977229411
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_14": -8257431274554580043
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_15": 5276469782640407350
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_16": -7034530504481821190
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_17": -4677481545007163298
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_18": 4201511480950386450
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_19": 8284417142804388035
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_2": -1080524074936649006
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_3": -2362095732293671371
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_4": -8017402012897208610
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_5": -5163953305215071044
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_6": -329910109507828677
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_7": -9007412911338931118
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_8": -6036877002426474255
+      "Be\u015F Karelik Samuray Sald\u0131r\u0131 Animasyonu_9": -6277154146567974058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

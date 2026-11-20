@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 30341832b778d77448f87a476964df50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6926345636711426525
+    second: "Samur\xE1i en carrera_ hoja de sprites_0"
+  - first:
+      213: -3778715333514359654
+    second: "Samur\xE1i en carrera_ hoja de sprites_1"
+  - first:
+      213: -5990035450071186037
+    second: "Samur\xE1i en carrera_ hoja de sprites_2"
+  - first:
+      213: 6610466401541319794
+    second: "Samur\xE1i en carrera_ hoja de sprites_3"
+  - first:
+      213: 4935910338285335076
+    second: "Samur\xE1i en carrera_ hoja de sprites_4"
+  - first:
+      213: 6378868307131484754
+    second: "Samur\xE1i en carrera_ hoja de sprites_5"
+  - first:
+      213: -9117450093300468243
+    second: "Samur\xE1i en carrera_ hoja de sprites_6"
+  - first:
+      213: 3317535410743405045
+    second: "Samur\xE1i en carrera_ hoja de sprites_7"
+  - first:
+      213: -1793647893578343503
+    second: "Samur\xE1i en carrera_ hoja de sprites_8"
+  - first:
+      213: 8861364537107404172
+    second: "Samur\xE1i en carrera_ hoja de sprites_9"
+  - first:
+      213: -6619004836465311057
+    second: "Samur\xE1i en carrera_ hoja de sprites_10"
+  - first:
+      213: -6364707386433465425
+    second: "Samur\xE1i en carrera_ hoja de sprites_11"
+  - first:
+      213: -7221407317656313646
+    second: "Samur\xE1i en carrera_ hoja de sprites_12"
+  - first:
+      213: -4775020797005156944
+    second: "Samur\xE1i en carrera_ hoja de sprites_13"
+  - first:
+      213: -5265461995528945358
+    second: "Samur\xE1i en carrera_ hoja de sprites_14"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Samur\xE1i en carrera_ hoja de sprites_0"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 394
+        width: 266
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9e2c3c8a25f1060800000000000000
+      internalID: 6926345636711426525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samur\xE1i en carrera_ hoja de sprites_2"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 393
+        width: 274
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b858286ae7e1fdca0800000000000000
+      internalID: -5990035450071186037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samur\xE1i en carrera_ hoja de sprites_3"
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 391
+        width: 317
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c668f1b281dbb50800000000000000
+      internalID: 6610466401541319794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samur\xE1i en carrera_ hoja de sprites_4"
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 402
+        width: 517
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422fca41d40ef7440800000000000000
+      internalID: 4935910338285335076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samur\xE1i en carrera_ hoja de sprites_9"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 352
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85d783d814e9fa70800000000000000
+      internalID: 8861364537107404172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samur\xE1i en carrera_ hoja de sprites_11"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1
+        width: 353
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3145c8a540ca7a0800000000000000
+      internalID: -6364707386433465425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samur\xE1i en carrera_ hoja de sprites_12"
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 0
+        width: 456
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d060b42e4868cb90800000000000000
+      internalID: -7221407317656313646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samur\xE1i en carrera_ hoja de sprites_13"
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 374
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda76f52e7bbbdb0800000000000000
+      internalID: -4775020797005156944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ed1e6856fab03d4da7c601e15a5054f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Samur\xE1i en carrera_ hoja de sprites_0": 6926345636711426525
+      "Samur\xE1i en carrera_ hoja de sprites_1": -3778715333514359654
+      "Samur\xE1i en carrera_ hoja de sprites_10": -6619004836465311057
+      "Samur\xE1i en carrera_ hoja de sprites_11": -6364707386433465425
+      "Samur\xE1i en carrera_ hoja de sprites_12": -7221407317656313646
+      "Samur\xE1i en carrera_ hoja de sprites_13": -4775020797005156944
+      "Samur\xE1i en carrera_ hoja de sprites_14": -5265461995528945358
+      "Samur\xE1i en carrera_ hoja de sprites_2": -5990035450071186037
+      "Samur\xE1i en carrera_ hoja de sprites_3": 6610466401541319794
+      "Samur\xE1i en carrera_ hoja de sprites_4": 4935910338285335076
+      "Samur\xE1i en carrera_ hoja de sprites_5": 6378868307131484754
+      "Samur\xE1i en carrera_ hoja de sprites_6": -9117450093300468243
+      "Samur\xE1i en carrera_ hoja de sprites_7": 3317535410743405045
+      "Samur\xE1i en carrera_ hoja de sprites_8": -1793647893578343503
+      "Samur\xE1i en carrera_ hoja de sprites_9": 8861364537107404172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

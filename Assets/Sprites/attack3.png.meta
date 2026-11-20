@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 2a9ffada2c3e7354da56402a081968ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 459423778412867307
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_0"
+  - first:
+      213: 2393149246399980605
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_1"
+  - first:
+      213: -445785211974159738
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_2"
+  - first:
+      213: 6753808543850746249
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_3"
+  - first:
+      213: -4366606539894834398
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_4"
+  - first:
+      213: -515434053483629047
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_5"
+  - first:
+      213: 5869469610304099160
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_6"
+  - first:
+      213: 1204481532983837124
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_7"
+  - first:
+      213: -3140521443337393824
+    second: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 241
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeaaa90e73306600800000000000000
+      internalID: 459423778412867307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_1"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 157
+        width: 257
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d342a266f8c263120800000000000000
+      internalID: 2393149246399980605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_2"
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 148
+        width: 261
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682782a26b040d9f0800000000000000
+      internalID: -445785211974159738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_3"
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 148
+        width: 306
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981d83166195abd50800000000000000
+      internalID: 6753808543850746249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_4"
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 153
+        width: 387
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bbbabbc72b663c0800000000000000
+      internalID: -4366606539894834398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_5"
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 142
+        width: 391
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906f7f0957fc8d8f0800000000000000
+      internalID: -515434053483629047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_6"
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 17
+        width: 241
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535026438b847150800000000000000
+      internalID: 5869469610304099160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae333cc9c546f0c419db0f06952529e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_0": 459423778412867307
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_1": 2393149246399980605
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_2": -445785211974159738
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_3": 6753808543850746249
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_4": -4366606539894834398
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_5": -515434053483629047
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_6": 5869469610304099160
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_7": 1204481532983837124
+      "Yedi A\u015Famal\u0131 Samuray Sald\u0131r\u0131s\u0131_8": -3140521443337393824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

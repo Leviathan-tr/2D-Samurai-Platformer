@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 011dcd7e95541e84497f4c4e7fc37b32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7902373676980211954
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_0"
+  - first:
+      213: -517707029083226297
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_1"
+  - first:
+      213: 1065439601027461246
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_2"
+  - first:
+      213: 7417496286079542070
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_3"
+  - first:
+      213: -2361038459934796292
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_4"
+  - first:
+      213: 7439975085944783006
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_5"
+  - first:
+      213: 2774086297419405097
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_6"
+  - first:
+      213: 7237382982100098989
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_7"
+  - first:
+      213: 3245484209474771267
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_8"
+  - first:
+      213: -3564565282426856111
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_9"
+  - first:
+      213: 5716267405434406742
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_10"
+  - first:
+      213: 4774224311888108317
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_11"
+  - first:
+      213: 6745670385016198875
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_12"
+  - first:
+      213: 5749227952491185963
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_13"
+  - first:
+      213: 6050962202919365389
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_14"
+  - first:
+      213: -3540239288339582708
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_15"
+  - first:
+      213: -3935444671658193423
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_16"
+  - first:
+      213: 7020274320533804976
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_17"
+  - first:
+      213: -3008549171972647924
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_18"
+  - first:
+      213: -2331650920463366812
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_19"
+  - first:
+      213: 2799561727874921143
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_20"
+  - first:
+      213: 1851281898892574364
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_21"
+  - first:
+      213: -3642527494804552088
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_22"
+  - first:
+      213: 5280483189440029425
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_23"
+  - first:
+      213: 4052635898569572059
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_24"
+  - first:
+      213: 7856575152714238302
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_25"
+  - first:
+      213: 6216509086336484463
+    second: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_26"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_0"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 155
+        width: 281
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09dca9dfedaad60800000000000000
+      internalID: 7902373676980211954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_1"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 153
+        width: 351
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f75c1333cb0d8f0800000000000000
+      internalID: -517707029083226297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_4"
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 141
+        width: 290
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf51d8ea708eb3fd0800000000000000
+      internalID: -2361038459934796292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_9"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 157
+        width: 364
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dd142f2ce188ec0800000000000000
+      internalID: -3564565282426856111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_12"
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 146
+        width: 372
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd653ce997f6d9d50800000000000000
+      internalID: 6745670385016198875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_15"
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 143
+        width: 391
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0133aecf1b8edec0800000000000000
+      internalID: -3540239288339582708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 244de985a0158c042a68bda0b1616aa0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_0": 7902373676980211954
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_1": -517707029083226297
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_10": 5716267405434406742
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_11": 4774224311888108317
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_12": 6745670385016198875
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_13": 5749227952491185963
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_14": 6050962202919365389
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_15": -3540239288339582708
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_16": -3935444671658193423
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_17": 7020274320533804976
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_18": -3008549171972647924
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_19": -2331650920463366812
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_2": 1065439601027461246
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_20": 2799561727874921143
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_21": 1851281898892574364
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_22": -3642527494804552088
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_23": 5280483189440029425
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_24": 4052635898569572059
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_25": 7856575152714238302
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_26": 6216509086336484463
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_3": 7417496286079542070
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_4": -2361038459934796292
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_5": 7439975085944783006
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_6": 2774086297419405097
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_7": 7237382982100098989
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_8": 3245484209474771267
+      "Samuray Sald\u0131r\u0131s\u0131_ K\u0131rm\u0131z\u0131 Hilal Kombosu_9": -3564565282426856111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
